@@ -1,0 +1,7 @@
+[submodule "lib/stm32lib/STM32L5xx_HAL_Driver"]
+	path = lib/stm32lib/STM32L5xx_HAL_Driver
+	url = https://github.com/jackymchen/micropython_txb_sub_stm32l5xx_hal_driver.git
+	branch = txb
+[submodule "lib/stm32lib/CMSIS/STM32L5xx"]
+	path = lib/stm32lib/CMSIS/STM32L5xx
+	url = https://github.com/jackymchen/micropython_txb_sub_CMSIS_STM32L5xx.git
